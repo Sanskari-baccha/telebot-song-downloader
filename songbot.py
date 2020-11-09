@@ -1,4 +1,4 @@
-token='your token'
+token='1498024006:AAEd5NWvoK9GxZF0z4aHHggQa_zaWNF9T5A'
 import telepot
 import time
 from telepot.loop import MessageLoop
